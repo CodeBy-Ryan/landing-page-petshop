@@ -11,7 +11,7 @@ header {
 
 .link-header {
   margin-left: 35px;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
   color: #989d9c;
   cursor: pointer;
@@ -21,11 +21,11 @@ header {
 
 .button-loguin {
   cursor: pointer;
-  background: #665ae1;
+  background: #49baee;
   width: 130px;
   height: 41px;
   border-radius: 50px;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
   line-height: 29px;
   margin-left: 35px;
@@ -36,5 +36,58 @@ header {
 .logo-image {
   width: 568px;
   height: 500px;
-  margin-left: 125px;
+  display: inline-block;
+}
+
+main {
+  margin-right: 146px;
+  margin-left: 150px;
+}
+
+section {
+  display: inline-block;
+  margin-left: 86px;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 100px;
+  line-height: 122px;
+  color: #515151;
+  text-align: center;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 58px;
+  line-height: 71px;
+  color: #515151;
+  text-align: center;
+}
+
+p {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  width: 550px;
+  color: #848484;
+  margin-top: 32px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.button-section {
+  display: block;
+  margin: 0 auto;
+  background: #49baee;
+  color: #ffffff;
+  border-radius: 21px;
+  width: 550px;
+  height: 41px;
+  border: none;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 34px;
+  cursor: pointer;
+  filter: drop-shadow(0px 4px 4px rgb(0, 0, 0, 0.25));
 }
