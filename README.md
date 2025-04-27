@@ -1,0 +1,1 @@
+atuakuzandi a pagina
