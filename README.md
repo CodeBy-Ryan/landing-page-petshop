@@ -1,1 +1,1 @@
-atuakuzandi a paginaaaa
+atuakuzandi a -aakajeow
