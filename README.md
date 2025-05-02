@@ -1,1 +1,1 @@
-atuakuzandi a paginaaaaaaaaaaaa do meu skte 
+atuakuzandi a paginaaaaaaaaaaaa do meu site 
