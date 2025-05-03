@@ -1,1 +1,1 @@
-atualizando a página de estudos
+atualizando a página de estudos de petshop
