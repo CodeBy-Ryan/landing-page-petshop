@@ -1,1 +1,1 @@
-atualizando a página .
+atualizando a página de estudos
