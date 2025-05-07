@@ -1,1 +1,1 @@
-atualizando a página de estudos landing page pet shop 23456
+atualizando a página de estudos landing page pet shop 234567
