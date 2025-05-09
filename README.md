@@ -4,3 +4,9 @@ oooooooooooooooooooooooooooooo
 oooooooo
 oooooooooooooooooooooooooooooooooooooooo
 ooooooooooooooooooooooooooooo
+
+o
+o
+O
+loi
+hjjjjjjkuyk
