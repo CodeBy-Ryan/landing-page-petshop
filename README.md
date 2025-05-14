@@ -28,5 +28,4 @@ Este projeto é uma landing page desenvolvida para promover e vender produtos de
 
 iiiiiiiiiiiiiii
 iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-iiiiiiiiiiiiiooooooooooooooooooooooooo
-iiiiiiiiiiiiii
+iiiiiiiiiiiiioo
