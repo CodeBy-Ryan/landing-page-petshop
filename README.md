@@ -1,4 +1,4 @@
-mc#39mc 39Landing Page PetShop
+Landing Page PetShop
 
 
 ## Descrição
