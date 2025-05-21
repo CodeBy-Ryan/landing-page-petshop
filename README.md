@@ -27,3 +27,4 @@ Este projeto é uma landing page desenvolvida para promover e vender produtos de
    git clone https://github.com/SeuUsuario/landing-page-petshop.git
 
 qqqqqqqqqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqq
