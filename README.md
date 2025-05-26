@@ -25,5 +25,4 @@ kamanan
 +io
 mamakaxxxxxxxxxxxxx
 xxxxxxxxxxxzzzzzzzzzzzzzzzzzzz
-aaaaaaaaaaaaaaaaaxxxxxxxx
-xxxxxxxxx
+aaaaaaaaaaaaaaaaaxxx
