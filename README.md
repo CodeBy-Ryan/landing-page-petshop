@@ -23,5 +23,5 @@ Este projeto é uma landing page desenvolvida para promover e vender produtos de
 ## Como Usar
 zzzzzzzzzzzzzz
 zxxxxxxxxxxxxxxxxxxxxx
-cccccccccccccc
-zxcxczcxz
+xzcccccccccc
+zxcxczcxzzxczxcz
