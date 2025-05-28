@@ -24,5 +24,5 @@ Este projeto é uma landing page desenvolvida para promover e vender produtos de
 
 zzzzzzzzzzzzz
 zzzzzzzzzzzzzoooooooooooooooooooooo
-xxxxxxxxxxzzzzzzooooooooooo
+xxxxxxxxxxzzzzooooooooooozzooooooooooo
 oooooooooo
