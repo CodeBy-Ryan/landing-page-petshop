@@ -26,8 +26,4 @@ qqqqqqqqqqq
 wwwwwwwwwwwwwwwww
 wwwwwwwwwwww
 wwwwwwwwwwwwww
-wwwwwwww
-eeeeeeeeeeeee
-rrrrrrrrrr
-wwwwwwwww
-eeeeeeeeeeee
+wwwwww
