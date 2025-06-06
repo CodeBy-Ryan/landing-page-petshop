@@ -21,5 +21,3 @@ Este projeto é uma landing page desenvolvida para promover e vender produtos de
 - **Frameworks** (caso tenha utilizado algum como Bootstrap ou Tailwind): Para facilitar o design responsivo e a organização do layout.
 
 ## Como Usar
-uuuuuuooooo
-iiiiiiiooooooo
